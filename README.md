@@ -30,4 +30,7 @@ Second, we introduce the generic **Guest** role, which will partake in the discu
 
 Third, we introduce the **User** role, which obviously represents the end user of our little project. The **User** should be able to request permission to speak (just click a button). If denied, the Host just tells them and the show continues.
 
-The token budget works by appending a max_tokens setting in the request that's gonna be the budget itself, which will represent talking time. Can be a webapp, CLI, whatever - any medium works. The conversation should keep going even if the user never participates (it's like a radio show!).
+The token budget works by appending a max_tokens setting in the request that's gonna be the budget itself, which will represent talking time. 
+
+
+The hand-in can be a webapp, CLI, whatever - any medium works. The conversation should keep going even if the user never participates (it's like a radio show!).
