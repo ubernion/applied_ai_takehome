@@ -34,3 +34,28 @@ The token budget works by appending a max_tokens setting in the request that's g
 
 
 The hand-in can be a webapp, CLI, whatever - any medium works. The conversation should keep going even if the user never participates (it's like a radio show!).
+
+
+## Example
+
+**Host**: Alright, welcome back to Tech Talk Radio! We're discussing OpenAI's latest moves and, uh, honestly I'm not sure what to make of their new strategy. Sarah, what's your take on this?
+
+**Guest (Sarah)**: Yeah, so like, I think they're trying to balance the whole safety thing with actually shipping products. It's this weird tightrope walk where they want to be responsible but also stay competitive. And honestly? I think they're doing an okay job at it, even if people are critical.
+
+**Host**: That's a fair point. Mike, you've been pretty vocal about the industry lately. What do you think?
+
+**Guest (Mike)**: Thanks for asking! So I actually think both OpenAI and Anthropic are kinda missing the bigger picture here. Everyone's focused on safety and capabilities, but the real bottleneck is compute costs. Like, it doesn't matter how safe or capable your model is if nobody can afford to run it at scale.
+
+**User**: [requests to speak]
+
+**Host**: Oh perfect timing! We have a listener who wants to chime in. Go ahead, you've got the floor!
+
+**User**: I actually work in AI and I think Mike's onto something, but it's not just compute costs. It's also about accessibility. These models are great but they're still too complex for regular developers to integrate properly.
+
+**Host**: That's a really good point! Thanks for sharing that. Sarah, does that connect with what you were saying earlier?
+
+**Guest (Sarah)**: Totally! It's like, we're building these Ferrari engines but most people just need a reliable Honda, you know? 
+
+**Host**: I love that analogy. Speaking of tech in everyday life, did anyone catch that new sci-fi movie "The Algorithm"? It's basically about AGI taking over but... well, Mike, you saw it right?
+
+**Guest (Mike)**: Oh man, don't get me started! Like, they really thought AGI would communicate through interpretive dance? Come on...
