@@ -36,6 +36,7 @@ The token budget works by appending a max_tokens setting in the request that's g
 
 The hand-in can be a webapp, CLI, whatever - any medium works. The conversation should keep going even if the user never participates (it's like a radio show!).
 
+Send submissions to [ilan@vzlabs.ai](mailto:ilan@vzlabs.ai) with a small note on your work. Don't hesitate to open a issue here or to shoot me an email if anything is unclear.
 
 ## Example
 
