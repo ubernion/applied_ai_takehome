@@ -14,7 +14,7 @@ Depending on the level of execution this can be rather tricky to implement! We h
 - **Level 2** - Multi-Speakers (Host + Guest(s) + User)
 - **Level 3** - Voice (with actual TTS voices for each speaker)
 
-**Constraints:** Our only constraint is that we require you to use OpenRouter API which will allow you (and us!) to easily switch between models and providers.
+**Constraints:** Our only constraint is that we require you to use [OpenRouter API](https://openrouter.ai/docs/) which will allow you (and us!) to easily switch between models and providers.
 
 We provide each participant with an OpenRouter api key with $30 of credits pre-loaded, which should be largely sufficient for the task at hand. 
 
