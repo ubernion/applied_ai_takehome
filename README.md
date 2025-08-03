@@ -1,6 +1,6 @@
 # Hey!
 
-Thank you for your interest in VZ Labs. To test if you're a right fit for the team, we've designed this small project that you should be able to build at home.
+Thank you for your interest in [VZ Labs](https://vzlabs.ai). To test if you're a right fit for the team, we've designed this small project that you should be able to build at home.
 
 The goal of this project is to create a interactive LLM Radio. Imagine listening to the radio, and being able to *chime in* and interact with the radio host(s), to direct the conversation, to give an opinion, or just to ask for information? 
 
